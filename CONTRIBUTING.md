@@ -5,7 +5,7 @@
 ## 如何贡献
 
 1. Fork 本仓库
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
+2. 创建你的特性分支，从 master 分支创建 (`git checkout -b feature/AmazingFeature master`)
 3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启一个 Pull Request
